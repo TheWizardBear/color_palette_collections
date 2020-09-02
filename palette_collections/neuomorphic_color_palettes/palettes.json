@@ -1,0 +1,66 @@
+{
+  "name": "Neuomorphic Color Palettes",
+  "author": "Aniket Kudale",
+  "license": "MIT",
+  "url": "https://codepen.io/aniketkudale/pen/BaNxomQ",
+  "description": "A collection large color palettes",
+  "palettes": [
+    {
+      "name": "american",
+      "colors": [
+        {
+          "hex": "#55efc4"
+        },
+
+        {
+          "hex": "#81ecec"
+        },
+
+        {
+          "hex": "#74b9ff"
+        },
+
+        {
+          "hex": "#a29bfe"
+        },
+
+        {
+          "hex": "#dfe6e9"
+        },
+
+        {
+          "hex": "#b2bec3"
+        },
+
+        {
+          "hex": "#6c5ce7"
+        },
+
+        {
+          "hex": "#0984e3"
+        },
+
+        {
+          "hex": "#00cec9"
+        },
+
+        {
+          "hex": "#00b894"
+        },
+
+        {
+          "hex": "#ffeaa7"
+        },
+
+        {
+          "hex": "#fab1a0"
+        },
+
+        {
+          "hex": "#ffeaa7"
+        },
+
+      ]
+    }
+  ]
+}
